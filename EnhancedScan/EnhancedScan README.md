@@ -23,7 +23,7 @@ README.md
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[YourUsername]/EnhancedScan.git
+   git clone https://github.com/LifeJiggy/The-Cooperate-Powerful-.git
    cd EnhancedScan
 
 Install Dependencies:
