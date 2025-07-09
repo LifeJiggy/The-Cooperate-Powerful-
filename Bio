@@ -1,0 +1,102 @@
+<img src="profile.jpg" width="200" align="left">
+
+```csharp
+//// <summary>
+/// Seeking collaboration in web application security, bug bounty hunting, or development.
+/// 4 days project, 1 day learning. Available IMMEDIATELY.
+/// </summary>
+
+public class INFORMATION
+{
+    public string NAME = "Stephen (LifeJiggy)";
+    public string TITLE = "Ethical Hacker & Web Security Developer";
+    public string EMAIL = "your.email@example.com"; // Replace with your email
+    public int PHONE = 07_83_34_80_10; // Replace with your number
+    public string[] LOCATION = { "Remote", "Your City" };
+    public bool DRIVING_LICENSE = true;
+    public int AGE = 21; // Adjust as needed
+}
+
+public enum PLATFORMS
+{
+    Windows,
+    Linux,
+    Mobile
+}
+
+public enum LANGUAGES
+{
+    Python,
+    JavaScript,
+    HTML5,
+    CSS,
+    Bash
+}
+
+public enum TOOLS
+{
+    VisualStudio,
+    JetBrains,
+    GitHub,
+    VSCode
+}
+
+public enum MEDIA
+{
+    X,
+    /x.com/@Arkhlifejiggy,
+    GitHub,
+    /github.com/LifeJiggy
+}
+
+public enum LANGUAGES_SPOKEN
+{
+    ENGLISH = B2, // Adjust fluency
+    FRENCH = C1
+}
+
+public enum PROFILE
+{
+    CURIOUS,
+    DILIGENT,
+    ANALYTICAL,
+    CREATIVE
+}
+
+public partial class EDUCATION : SelfTaught
+{
+    private void WebSecurity()
+    {
+        var LEVEL = "Intermediate";
+        var DATE = "Today";
+        var TYPE = "Web Application Security";
+    }
+
+    private void Programming()
+    {
+        var LEVEL = "Intermediate";
+        var DATE = Range(start: "2024", end: "2025");
+        var TYPE = "Python & JavaScript";
+    }
+}
+
+public static class EXPERIENCE
+{
+    public void Projects()
+    {
+        var DURATION = "Ongoing";
+        var LINK = "https://github.com/LifeJiggy";
+        var TYPE = "Personal Projects";
+        /*Working on personal web security projects, 
+        including Python scripts to test vulnerabilities 
+        and secure JavaScript applications.*/
+    }
+
+    public void Collaboration()
+    {
+        var TYPE = "Open to Projects";
+        /*Looking for collaborations with developers and 
+        bug bounty hunters for open-source projects or 
+        security bounties.*/
+    }
+}
